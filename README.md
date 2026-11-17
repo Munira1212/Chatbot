@@ -115,3 +115,4 @@ Hver besked gemmes også i `logs/samtaler.jsonl`.
 
 Modellen vælges med `CHATBOT_MODEL` i `.env`. Sæt et lavt forbrugsloft på
 API-nøglen, før I kører mange tests.
+# Vagthund
